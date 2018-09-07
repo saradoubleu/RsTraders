@@ -12,10 +12,10 @@ User transactions are stored in the simulated blockchain (designed specifically 
 - PostgreSQL
 
 ## Getting Started
-1. Install all dependencies by running the command 'npm install'
-2. 'cd /express-api/' and start the server by running the command 'npm start server.js' 
-3. Start the web server by running the command npm start from the ROOT directory
-3. Using a web browser, navigate to http://localhost:3000/
+1. Install all dependencies by running the command `npm install`
+2. `cd /express-api/` and start the server by running the command `npm start server.js`
+3. From the root directory, start the web server by running the command `npm start`
+3. Using a web browser, navigate to `http://localhost:3000/ `
 
 ## Screenshots
 ### Main Page
