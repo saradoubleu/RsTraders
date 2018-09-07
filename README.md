@@ -1,7 +1,7 @@
 # RSTraders
 
 ## Description
-RSTraders is as an educational tool for individuals interested in learning about exploring cryptocurrencies. 
+RSTraders is as an educational tool for individuals interested in exploring cryptocurrencies. 
 User transactions are stored in the simulated blockchain (designed specifically for this project). The blockchain is run locally on the server and was built using JavaScript. 
 
 ## Dependencies
